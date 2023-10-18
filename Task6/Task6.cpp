@@ -135,6 +135,7 @@ bool Search2(int num)
 		d += 2;
 	}
 }
+
 int main()
 {
 	system("mode con cols=100 lines=30");
